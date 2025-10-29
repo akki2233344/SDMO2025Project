@@ -1,0 +1,526 @@
+name_1,email_1,name_2,email_2,c1,c2,c3,c4
+=,etorre@plainconcepts.com,Eric Torre,etorreg@gmail.com,0.0,0.923076923076923,0.0,True
+=,etorre@plainconcepts.com,ericuss,etorre@gmail.com,0.0,1.0,0.5,True
+=,etorre@plainconcepts.com,ericuss,etorreg@gmail.com,0.0,0.923076923076923,0.5,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,AlanYu,alan0428a@gmail.com,0.5714285714285714,0.2962962962962963,0.7857142857142857,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,BillWagner,bill.w.wagner@outlook.com,0.33333333333333337,0.19354838709677424,0.6666666666666667,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,DESKTOP-V1VLQ15\dsanz,dsanz@plainconcepts.com,0.3703703703703704,0.26086956521739135,0.6851851851851852,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,EthanR,rivettea@hotmail.com,0.4285714285714286,0.15384615384615385,0.7142857142857143,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,GitHubPang,61439577+githubpang@users.noreply.github.com,0.33333333333333337,0.32432432432432434,0.6666666666666667,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,InstanceFactory,instancefactory@users.noreply.github.com,0.34782608695652173,0.24242424242424243,0.6739130434782609,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Ivan,ivanbuha@outlook.com,0.33333333333333337,0.15384615384615385,0.6666666666666667,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,KurnakovMaksim,59327306+kurnakovmaksim@users.noreply.github.com,0.36363636363636365,0.4390243902439024,0.6818181818181819,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Marranica,16082301+marranica@users.noreply.github.com,0.4705882352941176,0.4444444444444444,0.7352941176470588,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Nish,nish@xamarin.com,0.33333333333333337,0.18181818181818177,0.6666666666666667,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Nish,nnish@live.com,0.33333333333333337,0.17391304347826086,0.6666666666666667,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,0.3870967741935484,0.2142857142857143,0.6935483870967742,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,RamonTC,ramon.tomas84@hotmail.com,0.4,0.25806451612903225,0.7,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Savorboard,yangxiaodong1214@126.com,0.33333333333333337,0.17647058823529416,0.6666666666666667,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Simon,simon@spehar.si,0.4615384615384615,0.26086956521739135,0.7307692307692307,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Srushti,136682990+srushtipasari94@users.noreply.github.com,0.4,0.32558139534883723,0.7,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Stepan,kologicdev@icloud.com,0.5714285714285714,0.2142857142857143,0.7857142857142857,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Unai,unai@plainconcepts.com,0.33333333333333337,0.18181818181818177,0.6666666666666667,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,Zakaria,23211915+zakaria-c@users.noreply.github.com,0.4,0.33333333333333337,0.7,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,alecola,alessandrocolamarino@gmail.com,0.5333333333333333,0.3157894736842105,0.7666666666666666,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,amedora,32722363+amedora@users.noreply.github.com,0.4,0.4117647058823529,0.7,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,ansonzhang,3143422472@qq.com,0.5555555555555556,0.1428571428571429,0.7777777777777778,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,dmalimon,devmalimon@gmail.com,0.375,0.2142857142857143,0.6875,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,dsanz,dsanz@plainconcepts.com,0.4615384615384615,0.26086956521739135,0.7307692307692307,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,dsrodenas,dsrodenas@users.noreply.github.com,0.3529411764705882,0.2222222222222222,0.6764705882352942,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,jacano,jacanosalado@gmail.com,0.4285714285714286,0.2666666666666667,0.7142857142857143,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,liubaishui,szliuquan@gmail.com,0.33333333333333337,0.2962962962962963,0.6666666666666667,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.5333333333333333,0.5142857142857142,0.7666666666666666,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.4761904761904761,0.32258064516129037,0.738095238095238,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,slsniffer,sl.sniffer@gmail.com,0.4705882352941176,0.2857142857142857,0.7352941176470588,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,unai,unai@plainconcepts.com,0.33333333333333337,0.18181818181818177,0.6666666666666667,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,unaizorrilla,unai@plainconcepts.com,0.4,0.18181818181818177,0.7,True
+A-Soltani,33505816+a-soltani@users.noreply.github.com,yantang,yantang@microsoft.com,0.5333333333333333,0.31999999999999995,0.7666666666666666,True
+AlanYu,alan0428a@gmail.com,BillWagner,bill.w.wagner@outlook.com,0.375,0.2727272727272727,0.6875,True
+AlanYu,alan0428a@gmail.com,EthanR,rivettea@hotmail.com,0.33333333333333337,0.11764705882352944,0.6666666666666667,True
+AlanYu,alan0428a@gmail.com,Ivan,ivanbuha@outlook.com,0.4,0.3529411764705882,0.7,True
+AlanYu,alan0428a@gmail.com,Kaypee,kaypee90@yahoo.com,0.33333333333333337,0.23529411764705888,0.6666666666666667,True
+AlanYu,alan0428a@gmail.com,Lukas,luk355@gmail.com,0.36363636363636365,0.1333333333333333,0.6818181818181819,True
+AlanYu,alan0428a@gmail.com,Marranica,16082301+marranica@users.noreply.github.com,0.4,0.2962962962962963,0.7,True
+AlanYu,alan0428a@gmail.com,alecola,alessandrocolamarino@gmail.com,0.4615384615384615,0.3448275862068966,0.7307692307692307,True
+AlanYu,alan0428a@gmail.com,ansonzhang,3143422472@qq.com,0.375,0.21052631578947367,0.6875,True
+AlanYu,alan0428a@gmail.com,dmalimon,devmalimon@gmail.com,0.4285714285714286,0.3157894736842105,0.7142857142857143,True
+AlanYu,alan0428a@gmail.com,dsanz,dsanz@plainconcepts.com,0.36363636363636365,0.2857142857142857,0.6818181818181819,True
+AlanYu,alan0428a@gmail.com,jacano,jacanosalado@gmail.com,0.5,0.38095238095238093,0.75,True
+AlanYu,alan0428a@gmail.com,liubaishui,szliuquan@gmail.com,0.375,0.33333333333333337,0.6875,True
+AlanYu,alan0428a@gmail.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.42105263157894735,0.36363636363636365,0.7105263157894737,True
+AlanYu,alan0428a@gmail.com,unaizorrilla,unai@plainconcepts.com,0.33333333333333337,0.3076923076923077,0.6666666666666667,True
+AlanYu,alan0428a@gmail.com,yantang,yantang@microsoft.com,0.4615384615384615,0.375,0.7307692307692307,True
+Andre Passos,andre-ap2@hotmail.com,André Passos,andre-ap2@hotmail.com,1.0,1.0,1.0,False
+Beth Massi,bethma@microsoft.com,eiximenis,etomas@gmail.com,0.3157894736842105,0.6666666666666667,0.07692307692307693,True
+Beth Massi,bethma@microsoft.com,etomas,etomas@gmail.com,0.625,0.6666666666666667,0.2,True
+Bill Wagner,wiwagn@microsoft.com,BillWagner,bill.w.wagner@outlook.com,0.9523809523809522,0.5263157894736843,0.2857142857142857,True
+BillWagner,bill.w.wagner@outlook.com,EthanR,rivettea@hotmail.com,0.375,0.19047619047619047,0.6875,True
+BillWagner,bill.w.wagner@outlook.com,InstanceFactory,instancefactory@users.noreply.github.com,0.4,0.3571428571428571,0.7,True
+BillWagner,bill.w.wagner@outlook.com,Ivan,ivanbuha@outlook.com,0.4285714285714286,0.2857142857142857,0.7142857142857143,True
+BillWagner,bill.w.wagner@outlook.com,IvanFarkas,ivan.farkas@3dhdsoft.com,0.4,0.33333333333333337,0.7,True
+BillWagner,bill.w.wagner@outlook.com,alecola,alessandrocolamarino@gmail.com,0.3529411764705882,0.24242424242424243,0.6764705882352942,True
+BillWagner,bill.w.wagner@outlook.com,amedora,32722363+amedora@users.noreply.github.com,0.3529411764705882,0.2068965517241379,0.6764705882352942,True
+BillWagner,bill.w.wagner@outlook.com,igorsych,igorsych@microsoft.com,0.33333333333333337,0.2857142857142857,0.6666666666666667,True
+BillWagner,bill.w.wagner@outlook.com,jabarca,jesus.abarca@wizeline.com,0.3529411764705882,0.24,0.6764705882352942,True
+BillWagner,bill.w.wagner@outlook.com,william-keller,kellerwilliam2011@gmail.com,0.5217391304347826,0.2666666666666667,0.7608695652173914,True
+Borja García,borjasanes@hotmail.com,Borja García Rodríguez,bgarcia@plainconcepts.com,0.7058823529411764,0.3529411764705882,0.6333333333333333,True
+CESARDELATORRE,cesardl@microsoft.com,CESARDELATORRE,cesardl@microsoft.com,1.0,1.0,1.0,True
+CESARDELATORRE,cesardl@microsoft.com,CESARDL,cesardl@surfbookcesardl,0.6666666666666667,1.0,0.8333333333333334,True
+CESARDELATORRE,cesardl@microsoft.com,Cesar De la Torre,cesardl@cesars-macbook-pro.local,0.9032258064516128,1.0,0.26315789473684215,True
+CESARDELATORRE,cesardl@microsoft.com,Cesar De la Torre,cesardl@microsoft.com,0.9032258064516128,1.0,0.26315789473684215,True
+CESARDELATORRE,cesardl@microsoft.com,Cesar De la Torre Llorente,cesardl@microsoft.com,0.7,1.0,0.26315789473684215,True
+CESARDELATORRE,cesardl@microsoft.com,InstanceFactory,instancefactory@users.noreply.github.com,0.48275862068965514,0.36363636363636365,0.7413793103448276,True
+CESARDELATORRE,cesardl@microsoft.com,PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,0.3783783783783784,0.3529411764705882,0.6891891891891893,True
+CESARDELATORRE,cesardl@microsoft.com,Savorboard,yangxiaodong1214@126.com,0.41666666666666663,0.17391304347826086,0.7083333333333333,True
+CESARDELATORRE,cesardl@microsoft.com,SychevIgor,sychevigor@users.noreply.github.com,0.33333333333333337,0.3529411764705882,0.6666666666666667,True
+CESARDELATORRE,cesardl@microsoft.com,alecola,alessandrocolamarino@gmail.com,0.38095238095238093,0.3703703703703704,0.6904761904761905,True
+CESARDELATORRE,cesardl@microsoft.com,amedora,32722363+amedora@users.noreply.github.com,0.38095238095238093,0.17391304347826086,0.6904761904761905,True
+CESARDELATORRE,cesardl@microsoft.com,chertby,a.skuratovich@gmail.com,0.38095238095238093,0.19999999999999996,0.6904761904761905,True
+CESARDELATORRE,cesardl@microsoft.com,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,0.3703703703703704,0.12903225806451613,0.6851851851851852,True
+CESARDELATORRE,cesardl@microsoft.com,dsrodenas,dsrodenas@users.noreply.github.com,0.43478260869565216,0.375,0.717391304347826,True
+CESARDELATORRE,cesardl@microsoft.com,epique@plainconcepts.com,epique@plainconcepts.com,0.33333333333333337,0.15384615384615385,0.6666666666666667,True
+CESARDELATORRE,cesardl@microsoft.com,jmanuelcorral,jcorral@plainconcepts.com,0.4444444444444444,0.4285714285714286,0.7222222222222222,True
+CESARDELATORRE,cesardl@microsoft.com,CESARDL,cesardl@surfbookcesardl,0.6666666666666667,1.0,0.8333333333333334,True
+CESARDELATORRE,cesardl@microsoft.com,Cesar De la Torre,cesardl@cesars-macbook-pro.local,0.9032258064516128,1.0,0.26315789473684215,True
+CESARDELATORRE,cesardl@microsoft.com,Cesar De la Torre,cesardl@microsoft.com,0.9032258064516128,1.0,0.26315789473684215,True
+CESARDELATORRE,cesardl@microsoft.com,Cesar De la Torre Llorente,cesardl@microsoft.com,0.7,1.0,0.26315789473684215,True
+CESARDELATORRE,cesardl@microsoft.com,InstanceFactory,instancefactory@users.noreply.github.com,0.48275862068965514,0.36363636363636365,0.7413793103448276,True
+CESARDELATORRE,cesardl@microsoft.com,PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,0.3783783783783784,0.3529411764705882,0.6891891891891893,True
+CESARDELATORRE,cesardl@microsoft.com,Savorboard,yangxiaodong1214@126.com,0.41666666666666663,0.17391304347826086,0.7083333333333333,True
+CESARDELATORRE,cesardl@microsoft.com,SychevIgor,sychevigor@users.noreply.github.com,0.33333333333333337,0.3529411764705882,0.6666666666666667,True
+CESARDELATORRE,cesardl@microsoft.com,alecola,alessandrocolamarino@gmail.com,0.38095238095238093,0.3703703703703704,0.6904761904761905,True
+CESARDELATORRE,cesardl@microsoft.com,amedora,32722363+amedora@users.noreply.github.com,0.38095238095238093,0.17391304347826086,0.6904761904761905,True
+CESARDELATORRE,cesardl@microsoft.com,chertby,a.skuratovich@gmail.com,0.38095238095238093,0.19999999999999996,0.6904761904761905,True
+CESARDELATORRE,cesardl@microsoft.com,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,0.3703703703703704,0.12903225806451613,0.6851851851851852,True
+CESARDELATORRE,cesardl@microsoft.com,dsrodenas,dsrodenas@users.noreply.github.com,0.43478260869565216,0.375,0.717391304347826,True
+CESARDELATORRE,cesardl@microsoft.com,epique@plainconcepts.com,epique@plainconcepts.com,0.33333333333333337,0.15384615384615385,0.6666666666666667,True
+CESARDELATORRE,cesardl@microsoft.com,jmanuelcorral,jcorral@plainconcepts.com,0.4444444444444444,0.4285714285714286,0.7222222222222222,True
+CESARDL,cesardl@surfbookcesardl,Cesar De la Torre,cesardl@cesars-macbook-pro.local,0.5833333333333333,1.0,0.41666666666666674,True
+CESARDL,cesardl@surfbookcesardl,Cesar De la Torre,cesardl@microsoft.com,0.5833333333333333,1.0,0.41666666666666674,True
+CESARDL,cesardl@surfbookcesardl,Cesar De la Torre Llorente,cesardl@microsoft.com,0.4242424242424242,1.0,0.41666666666666674,True
+CESARDL,cesardl@surfbookcesardl,Chen,neil_chen_0918@live.cn,0.36363636363636365,0.19047619047619047,0.6818181818181819,True
+CESARDL,cesardl@surfbookcesardl,EthanR,rivettea@hotmail.com,0.4615384615384615,0.2666666666666667,0.7307692307692307,True
+CESARDL,cesardl@surfbookcesardl,InstanceFactory,instancefactory@users.noreply.github.com,0.36363636363636365,0.36363636363636365,0.6818181818181819,True
+CESARDL,cesardl@surfbookcesardl,PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,0.33333333333333337,0.3529411764705882,0.6666666666666667,True
+CESARDL,cesardl@surfbookcesardl,Savorboard,yangxiaodong1214@126.com,0.4705882352941176,0.17391304347826086,0.7352941176470588,True
+CESARDL,cesardl@surfbookcesardl,SychevIgor,sychevigor@users.noreply.github.com,0.3529411764705882,0.3529411764705882,0.6764705882352942,True
+CESARDL,cesardl@surfbookcesardl,chertby,a.skuratovich@gmail.com,0.4285714285714286,0.19999999999999996,0.7142857142857143,True
+CESARDL,cesardl@surfbookcesardl,dsanz,dsanz@plainconcepts.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+CESARDL,cesardl@surfbookcesardl,dsrodenas,dsrodenas@users.noreply.github.com,0.375,0.375,0.6875,True
+CESARDL,cesardl@surfbookcesardl,dvlsg,dvlsg@users.noreply.github.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+Carlos Cañizares Estévez,c.canizaresestevez@hotmail.com,Carlos Cañizares Estévez,ccanizares@plainconcepts.com,1.0,0.7142857142857143,1.0,True
+Carlos Milán Figueredo,cmilanf@hispamsx.org,Carlos de Miguel Ferrero,cmiguel@plainconcepts.com,0.6956521739130435,0.5714285714285714,0.8125,False
+Cesar De la Torre,cesardl@cesars-macbook-pro.local,Cesar De la Torre,cesardl@microsoft.com,1.0,1.0,1.0,False
+Cesar De la Torre,cesardl@cesars-macbook-pro.local,Cesar De la Torre Llorente,cesardl@microsoft.com,0.7906976744186046,1.0,0.7307692307692307,False
+Cesar De la Torre,cesardl@microsoft.com,Cesar De la Torre Llorente,cesardl@microsoft.com,0.7906976744186046,1.0,0.7307692307692307,False
+Chen,neil_chen_0918@live.cn,EthanR,rivettea@hotmail.com,0.4,0.18181818181818177,0.7,True
+Chen,neil_chen_0918@live.cn,IgorSychev,igorsychev@microsoft.com,0.4285714285714286,0.33333333333333337,0.7142857142857143,True
+Chen,neil_chen_0918@live.cn,Igor_Sychev,igor@sychev.com,0.4285714285714286,0.11111111111111116,0.7142857142857143,True
+Chen,neil_chen_0918@live.cn,Stepan,kologicdev@icloud.com,0.4,0.25,0.7,True
+Chen,neil_chen_0918@live.cn,SychevIgor,sychevigor@users.noreply.github.com,0.4285714285714286,0.25,0.7142857142857143,True
+Chen,neil_chen_0918@live.cn,chertby,a.skuratovich@gmail.com,0.5454545454545454,0.2222222222222222,0.7727272727272727,True
+Chen,neil_chen_0918@live.cn,chinaq,aaa6263@sina.com,0.6,0.0,0.8,True
+Chen,neil_chen_0918@live.cn,glennc,glennc@microsoft.com,0.4,0.30000000000000004,0.7,True
+Chen,neil_chen_0918@live.cn,igorsych,igorsych@microsoft.com,0.33333333333333337,0.2727272727272727,0.6666666666666667,True
+Chen,neil_chen_0918@live.cn,jacano,jacanosalado@gmail.com,0.4,0.15384615384615385,0.7,True
+Chen,neil_chen_0918@live.cn,n-stefan,38526229+n-stefan@users.noreply.github.com,0.36363636363636365,0.19354838709677424,0.6818181818181819,True
+Chen,neil_chen_0918@live.cn,yanchenw,yanchenw@dockerperf,0.6666666666666667,0.4545454545454546,0.8333333333333334,True
+Christian Arenas,carenas@plainconcepts.com,Christian Arenas,christian.arenasnavarro@hotmail.com,1.0,0.4666666666666666,1.0,True
+Christian Arenas,carenas@plainconcepts.com,Christian Arenas,christian147_@hotmail.com,1.0,0.30000000000000004,1.0,True
+Christian Arenas,carenas@plainconcepts.com,Christian Morgenthaler,c.morgenthaler@outlook.de,0.736842105263158,0.4761904761904761,0.7222222222222222,False
+Christian Arenas,christian.arenasnavarro@hotmail.com,Christian Arenas,christian147_@hotmail.com,1.0,0.5,1.0,True
+Christian Arenas,christian.arenasnavarro@hotmail.com,Christian Morgenthaler,c.morgenthaler@outlook.de,0.736842105263158,0.3783783783783784,0.7222222222222222,False
+Christian Arenas,christian147_@hotmail.com,Christian Morgenthaler,c.morgenthaler@outlook.de,0.736842105263158,0.2962962962962963,0.7222222222222222,False
+DESKTOP-V1VLQ15\dsanz,dsanz@plainconcepts.com,David Sanz,dsanz@plainconcepts.com,0.48275862068965514,1.0,0.125,True
+DESKTOP-V1VLQ15\dsanz,dsanz@plainconcepts.com,Stepan,kologicdev@icloud.com,0.4,0.1333333333333333,0.7,True
+DESKTOP-V1VLQ15\dsanz,dsanz@plainconcepts.com,dsanz,dsanz@plainconcepts.com,0.41666666666666663,1.0,0.7083333333333333,True
+DESKTOP-V1VLQ15\dsanz,dsanz@plainconcepts.com,dsrodenas,dsrodenas@users.noreply.github.com,0.3571428571428571,0.4285714285714286,0.6785714285714286,True
+DESKTOP-V1VLQ15\dsanz,dsanz@plainconcepts.com,dvlsg,dvlsg@users.noreply.github.com,0.33333333333333337,0.4,0.6666666666666667,True
+Daniyar Alpyspayev,daniyar.alpyspayev@gmail.com,Daniyar Alpyspayev,daniyara@thereachagency.com,1.0,0.6153846153846154,1.0,True
+Danny Chen,danny.chencc@ef.com,yanchenw,yanchenw@dockerperf,0.6666666666666667,0.6,0.23076923076923075,True
+David Britch,davidbritch@davids-mbp.lan,David Britch,davidbritch@davids-macbook-pro.local,1.0,1.0,1.0,True
+David Britch,davidbritch@davids-mbp.lan,David Britch,davidbritch@users.noreply.github.com,1.0,1.0,1.0,True
+David Britch,davidbritch@davids-macbook-pro.local,David Britch,davidbritch@users.noreply.github.com,1.0,1.0,1.0,True
+David Fowler,davidfowl@gmail.com,David Henley,henleydr@gmail.com,0.6666666666666667,0.11764705882352944,0.6666666666666667,False
+David Henley,henleydr@gmail.com,David Pine,david.pine@microsoft.com,0.7272727272727273,0.2222222222222222,0.7,False
+David Sanz,dsanz@plainconcepts.com,David Sanz,dsrodenas@users.noreply.github.com,1.0,0.4285714285714286,1.0,True
+David Sanz,dsanz@plainconcepts.com,dsanz,dsanz@plainconcepts.com,0.6666666666666667,1.0,0.2,True
+David Sanz,dsrodenas@users.noreply.github.com,dsanz,dsanz@plainconcepts.com,0.6666666666666667,0.4285714285714286,0.2,True
+David Sanz,dsrodenas@users.noreply.github.com,dsrodenas,dsrodenas@users.noreply.github.com,0.3157894736842105,1.0,0.14285714285714285,True
+Eduard Tomas,etomas@gmail.com,Eduard Tomàs,etomas@gmail.com,1.0,1.0,1.0,True
+Eduard Tomas,etomas@gmail.com,eiximenis,etomas@gmail.com,0.2857142857142857,1.0,0.06666666666666665,True
+Eduard Tomas,etomas@gmail.com,etomas,etomas@gmail.com,0.6666666666666667,1.0,0.16666666666666669,True
+Eduard Tomàs,etomas@gmail.com,eiximenis,etomas@gmail.com,0.2857142857142857,1.0,0.06666666666666665,True
+Eduard Tomàs,etomas@gmail.com,etomas,etomas@gmail.com,0.6666666666666667,1.0,0.16666666666666669,True
+Eric Torre,etorreg@gmail.com,ericuss,etorre@gmail.com,0.4705882352941176,0.923076923076923,0.36363636363636365,True
+Eric Torre,etorreg@gmail.com,ericuss,etorreg@gmail.com,0.4705882352941176,1.0,0.36363636363636365,True
+Erik Pique,epique@plainconcepts.com,epique@plainconcepts.com,epique@plainconcepts.com,0.375,1.0,0.07692307692307693,True
+Erik Pique,epique@plainconcepts.com,erikpique,erik.pique@gmail.com,0.9473684210526316,0.75,0.3076923076923077,True
+EthanR,rivettea@hotmail.com,GitHub,noreply@github.com,0.33333333333333337,0.2666666666666667,0.6666666666666667,True
+EthanR,rivettea@hotmail.com,InstanceFactory,instancefactory@users.noreply.github.com,0.38095238095238093,0.34782608695652173,0.6904761904761905,True
+EthanR,rivettea@hotmail.com,Ivan,ivanbuha@outlook.com,0.4,0.375,0.7,True
+EthanR,rivettea@hotmail.com,IvanFarkas,ivan.farkas@3dhdsoft.com,0.375,0.3157894736842105,0.6875,True
+EthanR,rivettea@hotmail.com,PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,0.3448275862068966,0.2222222222222222,0.6724137931034483,True
+EthanR,rivettea@hotmail.com,Stepan,kologicdev@icloud.com,0.5,0.2222222222222222,0.75,True
+EthanR,rivettea@hotmail.com,ansonzhang,3143422472@qq.com,0.375,0.0,0.6875,True
+EthanR,rivettea@hotmail.com,etomas,etomas@gmail.com,0.5,0.4285714285714286,0.75,True
+EthanR,rivettea@hotmail.com,glennc,glennc@microsoft.com,0.33333333333333337,0.1428571428571429,0.6666666666666667,True
+EthanR,rivettea@hotmail.com,m-knet,10815022+m-knet@users.noreply.github.com,0.36363636363636365,0.17391304347826086,0.6818181818181819,True
+EthanR,rivettea@hotmail.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.4615384615384615,0.24,0.7307692307692307,True
+EthanR,rivettea@hotmail.com,tthtun,theinthanhtun@live.com,0.5,0.2857142857142857,0.75,True
+GitHub,noreply@github.com,GitHubPang,61439577+githubpang@users.noreply.github.com,0.75,0.07692307692307687,0.875,True
+GitHub,noreply@github.com,Nish,nish@xamarin.com,0.4,0.18181818181818177,0.7,True
+GitHub,noreply@github.com,Nish,nnish@live.com,0.4,0.16666666666666663,0.7,True
+GitHub,noreply@github.com,liubaishui,szliuquan@gmail.com,0.375,0.125,0.6875,True
+GitHubPang,61439577+githubpang@users.noreply.github.com,InstanceFactory,instancefactory@users.noreply.github.com,0.31999999999999995,0.23529411764705888,0.6599999999999999,True
+GitHubPang,61439577+githubpang@users.noreply.github.com,Ivan,ivanbuha@outlook.com,0.4285714285714286,0.2222222222222222,0.7142857142857143,True
+GitHubPang,61439577+githubpang@users.noreply.github.com,Stepan,kologicdev@icloud.com,0.5,0.13793103448275867,0.75,True
+GitHubPang,61439577+githubpang@users.noreply.github.com,ansonzhang,3143422472@qq.com,0.4,0.27586206896551724,0.7,True
+GitHubPang,61439577+githubpang@users.noreply.github.com,jeremiahflaga,flaga.jeremiah@gmail.com,0.34782608695652173,0.18181818181818177,0.6739130434782609,True
+GitHubPang,61439577+githubpang@users.noreply.github.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.3529411764705882,0.33333333333333337,0.6764705882352942,True
+GitHubPang,61439577+githubpang@users.noreply.github.com,tthtun,theinthanhtun@live.com,0.5,0.3125,0.75,True
+GitHubPang,61439577+githubpang@users.noreply.github.com,yantang,yantang@microsoft.com,0.4705882352941176,0.3076923076923077,0.7352941176470588,True
+Glenn Condron,glennc@microsoft.com,glennc,glennc@microsoft.com,0.631578947368421,1.0,0.45454545454545453,True
+Igor Sychev,igorsych@microsoft.com,Igor Sychev,igorsych@microsoft.com,1.0,1.0,1.0,False
+Igor Sychev,igorsych@microsoft.com,Igor Sychev,sychev-igor.90@mail.ru,1.0,0.36363636363636365,1.0,True
+Igor Sychev,igorsych@microsoft.com,IgorSychev,igorsychev@microsoft.com,0.9523809523809522,0.8888888888888888,0.2857142857142857,True
+Igor Sychev,igorsych@microsoft.com,Igor_Sychev,igor@sychev.com,0.9523809523809522,0.6666666666666667,0.2857142857142857,True
+Igor Sychev,igorsych@microsoft.com,Sychev Igor,igorsych@microsoft.com,0.5454545454545454,1.0,0.0,True
+Igor Sychev,igorsych@microsoft.com,igorsych,igorsych@microsoft.com,0.8421052631578947,1.0,0.33333333333333337,True
+Igor Sychev,igorsych@microsoft.com,Igor Sychev,sychev-igor.90@mail.ru,1.0,0.36363636363636365,1.0,True
+Igor Sychev,igorsych@microsoft.com,IgorSychev,igorsychev@microsoft.com,0.9523809523809522,0.8888888888888888,0.2857142857142857,True
+Igor Sychev,igorsych@microsoft.com,Igor_Sychev,igor@sychev.com,0.9523809523809522,0.6666666666666667,0.2857142857142857,True
+Igor Sychev,igorsych@microsoft.com,Sychev Igor,igorsych@microsoft.com,0.5454545454545454,1.0,0.0,True
+Igor Sychev,igorsych@microsoft.com,igorsych,igorsych@microsoft.com,0.8421052631578947,1.0,0.33333333333333337,True
+Igor Sychev,sychev-igor.90@mail.ru,IgorSychev,igorsychev@microsoft.com,0.9523809523809522,0.5,0.2857142857142857,True
+Igor Sychev,sychev-igor.90@mail.ru,Igor_Sychev,igor@sychev.com,0.9523809523809522,0.4444444444444444,0.2857142857142857,True
+Igor Sychev,sychev-igor.90@mail.ru,SychevIgor,sychevigor@users.noreply.github.com,0.5714285714285714,0.8333333333333335,0.2857142857142857,True
+Igor Sychev,sychev-igor.90@mail.ru,igorsych,igorsych@microsoft.com,0.8421052631578947,0.36363636363636365,0.33333333333333337,True
+IgorSychev,igorsychev@microsoft.com,Igor_Sychev,igor@sychev.com,1.0,0.5714285714285714,1.0,True
+IgorSychev,igorsychev@microsoft.com,InstanceFactory,instancefactory@users.noreply.github.com,0.31999999999999995,0.31999999999999995,0.6599999999999999,True
+IgorSychev,igorsychev@microsoft.com,Nish,nish@xamarin.com,0.4285714285714286,0.4285714285714286,0.7142857142857143,True
+IgorSychev,igorsychev@microsoft.com,Nish,nnish@live.com,0.4285714285714286,0.4,0.7142857142857143,True
+IgorSychev,igorsychev@microsoft.com,Srushti,136682990+srushtipasari94@users.noreply.github.com,0.3529411764705882,0.17142857142857137,0.6764705882352942,True
+IgorSychev,igorsychev@microsoft.com,Sychev Igor,igorsych@microsoft.com,0.5714285714285714,0.8888888888888888,0.375,True
+IgorSychev,igorsychev@microsoft.com,SychevIgor,sychevigor@users.noreply.github.com,0.6,0.6,0.8,True
+IgorSychev,igorsychev@microsoft.com,VoodooSV,voodoosv@gmail.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+IgorSychev,igorsychev@microsoft.com,chertby,a.skuratovich@gmail.com,0.3529411764705882,0.26086956521739135,0.6764705882352942,True
+IgorSychev,igorsychev@microsoft.com,i02coroj,i02coroj@hotmail.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+IgorSychev,igorsychev@microsoft.com,igorsych,igorsych@microsoft.com,0.8888888888888888,0.8888888888888888,0.9444444444444444,True
+IgorSychev,igorsychev@microsoft.com,vyunev,vyunev@live.ru,0.375,0.375,0.6875,True
+IgorSychev,igorsychev@microsoft.com,yanchenw,yanchenw@dockerperf,0.4444444444444444,0.4444444444444444,0.7222222222222222,True
+Igor_Sychev,igor@sychev.com,InstanceFactory,instancefactory@users.noreply.github.com,0.31999999999999995,0.3157894736842105,0.6599999999999999,True
+Igor_Sychev,igor@sychev.com,Nish,nish@xamarin.com,0.4285714285714286,0.25,0.7142857142857143,True
+Igor_Sychev,igor@sychev.com,Nish,nnish@live.com,0.4285714285714286,0.2222222222222222,0.7142857142857143,True
+Igor_Sychev,igor@sychev.com,Srushti,136682990+srushtipasari94@users.noreply.github.com,0.3529411764705882,0.13793103448275867,0.6764705882352942,True
+Igor_Sychev,igor@sychev.com,Sychev Igor,igorsych@microsoft.com,0.5714285714285714,0.6666666666666667,0.375,True
+Igor_Sychev,igor@sychev.com,SychevIgor,sychevigor@users.noreply.github.com,0.6,0.5714285714285714,0.8,True
+Igor_Sychev,igor@sychev.com,chertby,a.skuratovich@gmail.com,0.3529411764705882,0.11764705882352944,0.6764705882352942,True
+Igor_Sychev,igor@sychev.com,i02coroj,i02coroj@hotmail.com,0.33333333333333337,0.5,0.6666666666666667,True
+Igor_Sychev,igor@sychev.com,igorsych,igorsych@microsoft.com,0.8888888888888888,0.6666666666666667,0.9444444444444444,True
+InstanceFactory,instancefactory@users.noreply.github.com,IvanFarkas,ivan.farkas@3dhdsoft.com,0.48,0.4615384615384615,0.74,True
+InstanceFactory,instancefactory@users.noreply.github.com,Marranica,16082301+marranica@users.noreply.github.com,0.33333333333333337,0.24242424242424243,0.6666666666666667,True
+InstanceFactory,instancefactory@users.noreply.github.com,PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,0.368421052631579,0.31999999999999995,0.6842105263157895,True
+InstanceFactory,instancefactory@users.noreply.github.com,PLAINCONCEPTS\lruiz,lruiz@plainconcepts.com,0.4242424242424242,0.09999999999999998,0.7121212121212122,True
+InstanceFactory,instancefactory@users.noreply.github.com,Savorboard,yangxiaodong1214@126.com,0.31999999999999995,0.25806451612903225,0.6599999999999999,True
+InstanceFactory,instancefactory@users.noreply.github.com,Stepan,kologicdev@icloud.com,0.38095238095238093,0.24,0.6904761904761905,True
+InstanceFactory,instancefactory@users.noreply.github.com,SychevIgor,sychevigor@users.noreply.github.com,0.4,0.4,0.7,True
+InstanceFactory,instancefactory@users.noreply.github.com,alecola,alessandrocolamarino@gmail.com,0.36363636363636365,0.34285714285714286,0.6818181818181819,True
+InstanceFactory,instancefactory@users.noreply.github.com,amedora,32722363+amedora@users.noreply.github.com,0.36363636363636365,0.25806451612903225,0.6818181818181819,True
+InstanceFactory,instancefactory@users.noreply.github.com,ansonzhang,3143422472@qq.com,0.31999999999999995,0.0,0.6599999999999999,True
+InstanceFactory,instancefactory@users.noreply.github.com,chertby,a.skuratovich@gmail.com,0.36363636363636365,0.2857142857142857,0.6818181818181819,True
+InstanceFactory,instancefactory@users.noreply.github.com,epique@plainconcepts.com,epique@plainconcepts.com,0.3783783783783784,0.19047619047619047,0.6891891891891893,True
+InstanceFactory,instancefactory@users.noreply.github.com,i02coroj,i02coroj@hotmail.com,0.34782608695652173,0.34782608695652173,0.6739130434782609,True
+InstanceFactory,instancefactory@users.noreply.github.com,igorsych,igorsych@microsoft.com,0.34782608695652173,0.34782608695652173,0.6739130434782609,True
+InstanceFactory,instancefactory@users.noreply.github.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.5454545454545454,0.375,0.7727272727272727,True
+InstanceFactory,instancefactory@users.noreply.github.com,slsniffer,sl.sniffer@gmail.com,0.33333333333333337,0.31999999999999995,0.6666666666666667,True
+InstanceFactory,instancefactory@users.noreply.github.com,yanchenw,yanchenw@dockerperf,0.34782608695652173,0.34782608695652173,0.6739130434782609,True
+InstanceFactory,instancefactory@users.noreply.github.com,yantang,yantang@microsoft.com,0.36363636363636365,0.36363636363636365,0.6818181818181819,True
+Ivan,ivanbuha@outlook.com,Ivan Buha,ivan.buha@communitybrands.com,0.6153846153846154,0.9411764705882352,0.5,True
+Ivan,ivanbuha@outlook.com,Ivan Buha,ivanbuha@outlook.com,0.6153846153846154,1.0,0.5,True
+Ivan,ivanbuha@outlook.com,IvanFarkas,ivan.farkas@3dhdsoft.com,0.5714285714285714,0.5263157894736843,0.7857142857142857,True
+Ivan,ivanbuha@outlook.com,Simon,simon@spehar.si,0.4444444444444444,0.3076923076923077,0.7222222222222222,True
+Ivan,ivanbuha@outlook.com,Stepan,kologicdev@icloud.com,0.4,0.2222222222222222,0.7,True
+Ivan,ivanbuha@outlook.com,Zakaria,23211915+zakaria-c@users.noreply.github.com,0.36363636363636365,0.15384615384615385,0.6818181818181819,True
+Ivan,ivanbuha@outlook.com,dmalimon,devmalimon@gmail.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+Ivan,ivanbuha@outlook.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.36363636363636365,0.16000000000000003,0.6818181818181819,True
+Ivan,ivanbuha@outlook.com,vlad2689,nedelescu.vlad@gmail.com,0.33333333333333337,0.2727272727272727,0.6666666666666667,True
+Ivan,ivanbuha@outlook.com,vyunev,vyunev@live.ru,0.4,0.2857142857142857,0.7,True
+Ivan Buha,ivan.buha@communitybrands.com,Ivan Buha,ivanbuha@outlook.com,1.0,0.9411764705882352,1.0,True
+IvanFarkas,ivan.farkas@3dhdsoft.com,KurnakovMaksim,59327306+kurnakovmaksim@users.noreply.github.com,0.41666666666666663,0.2941176470588235,0.7083333333333333,True
+IvanFarkas,ivan.farkas@3dhdsoft.com,PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,0.36363636363636365,0.4761904761904761,0.6818181818181819,True
+IvanFarkas,ivan.farkas@3dhdsoft.com,Zakaria,23211915+zakaria-c@users.noreply.github.com,0.4705882352941176,0.27586206896551724,0.7352941176470588,True
+IvanFarkas,ivan.farkas@3dhdsoft.com,amedora,32722363+amedora@users.noreply.github.com,0.3529411764705882,0.2222222222222222,0.6764705882352942,True
+IvanFarkas,ivan.farkas@3dhdsoft.com,igorsych,igorsych@microsoft.com,0.33333333333333337,0.3157894736842105,0.6666666666666667,True
+IvanFarkas,ivan.farkas@3dhdsoft.com,jeremiahflaga,flaga.jeremiah@gmail.com,0.43478260869565216,0.31999999999999995,0.717391304347826,True
+IvanFarkas,ivan.farkas@3dhdsoft.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.3529411764705882,0.2142857142857143,0.6764705882352942,True
+IvanFarkas,ivan.farkas@3dhdsoft.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.43478260869565216,0.41666666666666663,0.717391304347826,True
+IvanFarkas,ivan.farkas@3dhdsoft.com,unaizorrilla,unai@plainconcepts.com,0.36363636363636365,0.2666666666666667,0.6818181818181819,True
+Javier Suárez Ruiz,javiersuarezruiz@hotmail.com,Javier Suárez Ruiz,javiersuarezruiz@hotmail.com,1.0,1.0,1.0,True
+Javier Suárez Ruiz,javiersuarezruiz@hotmail.com,Javier Suárez Ruiz,jsuarez@plainconcepts.com,1.0,0.6086956521739131,1.0,True
+Javier Suárez Ruiz,javiersuarezruiz@hotmail.com,Javier Suárez Ruiz,jsuarez@plainconcepts.com,1.0,0.6086956521739131,1.0,True
+Joni,jonijpn@gmail.com,Jose,jose.manuel.corral@gmail.com,0.5,0.24,0.75,True
+Joni,jonijpn@gmail.com,Nish,nish@xamarin.com,0.5,0.36363636363636365,0.75,True
+Joni,jonijpn@gmail.com,Nish,nnish@live.com,0.5,0.33333333333333337,0.75,True
+Joni,jonijpn@gmail.com,OuJun,luacloud@gmail.com,0.4444444444444444,0.1333333333333333,0.7222222222222222,True
+Joni,jonijpn@gmail.com,jacano,jacanosalado@gmail.com,0.4,0.21052631578947367,0.7,True
+Jose,jose.manuel.corral@gmail.com,Stepan,kologicdev@icloud.com,0.4,0.2142857142857143,0.7,True
+Jose,jose.manuel.corral@gmail.com,etomas,etomas@gmail.com,0.4,0.25,0.7,True
+Jose,jose.manuel.corral@gmail.com,jacano,jacanosalado@gmail.com,0.4,0.4,0.7,True
+Jose,jose.manuel.corral@gmail.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.36363636363636365,0.22857142857142854,0.6818181818181819,True
+José Corral,jcorral@plainconcepts.com,jmanuelcorral,jcorral@plainconcepts.com,0.6666666666666667,1.0,0.11764705882352944,True
+Juan Antonio Cano,jacanosalado@gmail.com,jacano,jacanosalado@gmail.com,0.5217391304347826,1.0,0.3,True
+Kaypee,kaypee90@yahoo.com,Lukas,luk355@gmail.com,0.36363636363636365,0.1428571428571429,0.6818181818181819,True
+Kaypee,kaypee90@yahoo.com,erikpique,erik.pique@gmail.com,0.4,0.33333333333333337,0.7,True
+Kaypee,kaypee90@yahoo.com,m-knet,10815022+m-knet@users.noreply.github.com,0.36363636363636365,0.17391304347826086,0.6818181818181819,True
+KurnakovMaksim,59327306+kurnakovmaksim@users.noreply.github.com,Lukas,luk355@gmail.com,0.42105263157894735,0.13793103448275867,0.7105263157894737,True
+KurnakovMaksim,59327306+kurnakovmaksim@users.noreply.github.com,Unai,unai@plainconcepts.com,0.4444444444444444,0.2962962962962963,0.7222222222222222,True
+KurnakovMaksim,59327306+kurnakovmaksim@users.noreply.github.com,Zakaria,23211915+zakaria-c@users.noreply.github.com,0.38095238095238093,0.3414634146341463,0.6904761904761905,True
+KurnakovMaksim,59327306+kurnakovmaksim@users.noreply.github.com,szukuro,szukuro@gmail.com,0.38095238095238093,0.2666666666666667,0.6904761904761905,True
+KurnakovMaksim,59327306+kurnakovmaksim@users.noreply.github.com,unai,unai@plainconcepts.com,0.4444444444444444,0.2962962962962963,0.7222222222222222,True
+KurnakovMaksim,59327306+kurnakovmaksim@users.noreply.github.com,unaizorrilla,unai@plainconcepts.com,0.3846153846153846,0.2962962962962963,0.6923076923076923,True
+Kyle White,kyle@xamarin.com,Kyle White,kywhi@microsoft.com,1.0,0.4444444444444444,1.0,False
+Lee Dumond,lee_dumond@aisreview.com,Lee Dumond,leedumond@gmail.com,1.0,0.9473684210526316,1.0,True
+Lukas,luk355@gmail.com,Unai,unai@plainconcepts.com,0.4444444444444444,0.19999999999999996,0.7222222222222222,True
+Lukas,luk355@gmail.com,alecola,alessandrocolamarino@gmail.com,0.33333333333333337,0.07692307692307687,0.6666666666666667,True
+Lukas,luk355@gmail.com,dvlsg,dvlsg@users.noreply.github.com,0.4,0.18181818181818177,0.7,True
+Lukas,luk355@gmail.com,liubaishui,szliuquan@gmail.com,0.5333333333333333,0.2666666666666667,0.7666666666666666,True
+Lukas,luk355@gmail.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.33333333333333337,0.10526315789473684,0.6666666666666667,True
+Lukas,luk355@gmail.com,unai,unai@plainconcepts.com,0.4444444444444444,0.19999999999999996,0.7222222222222222,True
+Marcos Cobeña Morián,mcobena@plainconcepts.com,Marcos Cobeña Morián,marcoscm.digital@gmail.com,1.0,0.34782608695652173,1.0,False
+Marranica,16082301+marranica@users.noreply.github.com,RamonTC,ramon.tomas84@hotmail.com,0.5,0.25806451612903225,0.75,True
+Marranica,16082301+marranica@users.noreply.github.com,alecola,alessandrocolamarino@gmail.com,0.375,0.26315789473684215,0.6875,True
+Marranica,16082301+marranica@users.noreply.github.com,amedora,32722363+amedora@users.noreply.github.com,0.375,0.3529411764705882,0.6875,True
+Marranica,16082301+marranica@users.noreply.github.com,dmalimon,devmalimon@gmail.com,0.3529411764705882,0.2142857142857143,0.6764705882352942,True
+Marranica,16082301+marranica@users.noreply.github.com,eiximenis,etomas@gmail.com,0.33333333333333337,0.16666666666666663,0.6666666666666667,True
+Marranica,16082301+marranica@users.noreply.github.com,jeremiahflaga,flaga.jeremiah@gmail.com,0.36363636363636365,0.25,0.6818181818181819,True
+Marranica,16082301+marranica@users.noreply.github.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.36363636363636365,0.25806451612903225,0.6818181818181819,True
+Mateusz Karkula,karql.pl@gmail.com,Mateusz Karkula,mateusz.karkula@comarch.com,1.0,0.34782608695652173,1.0,True
+Miguel Veloso,mveloso@plainconcepts.com,Miguel Veloso,mvelosop@gmail.com,1.0,0.9333333333333332,1.0,True
+Nish,nish@xamarin.com,Nish,nnish@live.com,1.0,0.8888888888888888,1.0,True
+Nish,nish@xamarin.com,Nish Anil,nish@microsoft.com,0.6153846153846154,1.0,0.5,True
+Nish,nish@xamarin.com,Nish Anil,nish@xamarin.com,0.6153846153846154,1.0,0.5,True
+Nish,nish@xamarin.com,Nish Anil,nnish@live.com,0.6153846153846154,0.8888888888888888,0.5,True
+Nish,nish@xamarin.com,Srushti,136682990+srushtipasari94@users.noreply.github.com,0.36363636363636365,0.13793103448275867,0.6818181818181819,True
+Nish,nish@xamarin.com,Unai,unai@plainconcepts.com,0.5,0.5,0.75,True
+Nish,nish@xamarin.com,edmondshtogu,edmondshtogu@gmail.com,0.375,0.375,0.6875,True
+Nish,nish@xamarin.com,igorsych,igorsych@microsoft.com,0.5,0.5,0.75,True
+Nish,nish@xamarin.com,libPhipp,philip_herrmann@gmx.de,0.33333333333333337,0.21052631578947367,0.6666666666666667,True
+Nish,nish@xamarin.com,liubaishui,szliuquan@gmail.com,0.4285714285714286,0.15384615384615385,0.7142857142857143,True
+Nish,nish@xamarin.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.36363636363636365,0.19047619047619047,0.6818181818181819,True
+Nish,nish@xamarin.com,unai,unai@plainconcepts.com,0.5,0.5,0.75,True
+Nish,nish@xamarin.com,yanchenw,yanchenw@dockerperf,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+Nish,nnish@live.com,Nish Anil,nish@microsoft.com,0.6153846153846154,0.8888888888888888,0.5,True
+Nish,nnish@live.com,Nish Anil,nish@xamarin.com,0.6153846153846154,0.8888888888888888,0.5,True
+Nish,nnish@live.com,Nish Anil,nnish@live.com,0.6153846153846154,1.0,0.5,True
+Nish,nnish@live.com,Srushti,136682990+srushtipasari94@users.noreply.github.com,0.36363636363636365,0.1333333333333333,0.6818181818181819,True
+Nish,nnish@live.com,Unai,unai@plainconcepts.com,0.5,0.4444444444444444,0.75,True
+Nish,nnish@live.com,edmondshtogu,edmondshtogu@gmail.com,0.375,0.3529411764705882,0.6875,True
+Nish,nnish@live.com,igorsych,igorsych@microsoft.com,0.5,0.4615384615384615,0.75,True
+Nish,nnish@live.com,libPhipp,philip_herrmann@gmx.de,0.33333333333333337,0.19999999999999996,0.6666666666666667,True
+Nish,nnish@live.com,liubaishui,szliuquan@gmail.com,0.4285714285714286,0.1428571428571429,0.7142857142857143,True
+Nish,nnish@live.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.36363636363636365,0.18181818181818177,0.6818181818181819,True
+Nish,nnish@live.com,unai,unai@plainconcepts.com,0.5,0.4444444444444444,0.75,True
+Nish,nnish@live.com,yanchenw,yanchenw@dockerperf,0.33333333333333337,0.3076923076923077,0.6666666666666667,True
+Nish Anil,nanil@microsoft.com,Nish Anil,nish@microsoft.com,1.0,0.4444444444444444,1.0,True
+Nish Anil,nanil@microsoft.com,Nish Anil,nish@xamarin.com,1.0,0.4444444444444444,1.0,True
+Nish Anil,nanil@microsoft.com,Nish Anil,nnish@live.com,1.0,0.6,1.0,True
+Nish Anil,nish@microsoft.com,Nish Anil,nish@xamarin.com,1.0,1.0,1.0,False
+Nish Anil,nish@microsoft.com,Nish Anil,nnish@live.com,1.0,0.8888888888888888,1.0,False
+Nish Anil,nish@xamarin.com,Nish Anil,nnish@live.com,1.0,0.8888888888888888,1.0,False
+OuJun,luacloud@gmail.com,RamonTC,ramon.tomas84@hotmail.com,0.33333333333333337,0.19047619047619047,0.6666666666666667,True
+OuJun,luacloud@gmail.com,Simon,simon@spehar.si,0.4,0.15384615384615385,0.7,True
+OuJun,luacloud@gmail.com,Unai,unai@plainconcepts.com,0.4444444444444444,0.33333333333333337,0.7222222222222222,True
+OuJun,luacloud@gmail.com,jacano,jacanosalado@gmail.com,0.36363636363636365,0.4,0.6818181818181819,True
+OuJun,luacloud@gmail.com,szukuro,szukuro@gmail.com,0.33333333333333337,0.2666666666666667,0.6666666666666667,True
+OuJun,luacloud@gmail.com,unai,unai@plainconcepts.com,0.4444444444444444,0.33333333333333337,0.7222222222222222,True
+PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,PLAINCONCEPTS\lruiz,lruiz@plainconcepts.com,0.7317073170731707,0.2666666666666667,0.8658536585365854,False
+PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,RamonTC,ramon.tomas84@hotmail.com,0.33333333333333337,0.34782608695652173,0.6666666666666667,True
+PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,ansonzhang,3143422472@qq.com,0.36363636363636365,0.0,0.6818181818181819,True
+PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,epique@plainconcepts.com,epique@plainconcepts.com,0.6222222222222222,0.25,0.8111111111111111,True
+PLAINCONCEPTS\ccanizares,ccanizares@plainconcepts.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.33333333333333337,0.34782608695652173,0.6666666666666667,True
+PLAINCONCEPTS\lruiz,lruiz@plainconcepts.com,RamonTC,ramon.tomas84@hotmail.com,0.31999999999999995,0.11111111111111116,0.6599999999999999,True
+PLAINCONCEPTS\lruiz,lruiz@plainconcepts.com,Srushti,136682990+srushtipasari94@users.noreply.github.com,0.31999999999999995,0.19999999999999996,0.6599999999999999,True
+PLAINCONCEPTS\lruiz,lruiz@plainconcepts.com,epique@plainconcepts.com,epique@plainconcepts.com,0.65,0.18181818181818177,0.825,True
+PLAINCONCEPTS\lruiz,lruiz@plainconcepts.com,liubaishui,szliuquan@gmail.com,0.4285714285714286,0.2857142857142857,0.7142857142857143,True
+PLAINCONCEPTS\lruiz,lruiz@plainconcepts.com,unaizorrilla,unai@plainconcepts.com,0.33333333333333337,0.4444444444444444,0.6666666666666667,True
+Rafsanul Hasan,rafsanulhasan@outlook.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.962962962962963,1.0,0.38095238095238093,True
+Ramon Smits,ramon.smits@gmail.com,RamonTC,ramon.tomas84@hotmail.com,0.6666666666666667,0.6666666666666667,0.41666666666666674,True
+Ramon Smits,ramon.smits@gmail.com,Ramón Tomás,ramon.tomas84@hotmail.com,0.7272727272727273,0.6666666666666667,0.7,False
+Ramon Smits,ramon.smits@gmail.com,Ramón Tomás,rtomas@plainconcepts.com,0.7272727272727273,0.4705882352941176,0.7,False
+RamonTC,ramon.tomas84@hotmail.com,Ramón Tomás,ramon.tomas84@hotmail.com,0.6666666666666667,1.0,0.41666666666666674,True
+RamonTC,ramon.tomas84@hotmail.com,Ramón Tomás,rtomas@plainconcepts.com,0.6666666666666667,0.631578947368421,0.41666666666666674,True
+RamonTC,ramon.tomas84@hotmail.com,Simon,simon@spehar.si,0.5,0.33333333333333337,0.75,True
+RamonTC,ramon.tomas84@hotmail.com,amedora,32722363+amedora@users.noreply.github.com,0.4285714285714286,0.27586206896551724,0.7142857142857143,True
+RamonTC,ramon.tomas84@hotmail.com,ansonzhang,3143422472@qq.com,0.3529411764705882,0.08695652173913049,0.6764705882352942,True
+RamonTC,ramon.tomas84@hotmail.com,dsrodenas,dsrodenas@users.noreply.github.com,0.375,0.4545454545454546,0.6875,True
+RamonTC,ramon.tomas84@hotmail.com,m-knet,10815022+m-knet@users.noreply.github.com,0.5,0.2142857142857143,0.75,True
+Ramón Tomás,ramon.tomas84@hotmail.com,Ramón Tomás,rtomas@plainconcepts.com,1.0,0.631578947368421,1.0,True
+Reuben Bond,203839+reubenbond@users.noreply.github.com,Reuben Bond,rebond@microsoft.com,1.0,0.5217391304347826,1.0,True
+Reuben Bond,203839+reubenbond@users.noreply.github.com,Reuben Bond,reuben.bond@gmail.com,1.0,0.7142857142857143,1.0,True
+Reuben Bond,rebond@microsoft.com,Reuben Bond,reuben.bond@gmail.com,1.0,0.7058823529411764,1.0,True
+Savorboard,yangxiaodong1214@126.com,SychevIgor,sychevigor@users.noreply.github.com,0.4,0.23076923076923073,0.7,True
+Savorboard,yangxiaodong1214@126.com,VoodooSV,voodoosv@gmail.com,0.4444444444444444,0.25,0.7222222222222222,True
+Savorboard,yangxiaodong1214@126.com,alecola,alessandrocolamarino@gmail.com,0.3529411764705882,0.2777777777777778,0.6764705882352942,True
+Savorboard,yangxiaodong1214@126.com,amedora,32722363+amedora@users.noreply.github.com,0.4705882352941176,0.1875,0.7352941176470588,True
+Savorboard,yangxiaodong1214@126.com,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,0.34782608695652173,0.19999999999999996,0.6739130434782609,True
+Savorboard,yangxiaodong1214@126.com,dsrodenas,dsrodenas@users.noreply.github.com,0.42105263157894735,0.24,0.7105263157894737,True
+Savorboard,yangxiaodong1214@126.com,i02coroj,i02coroj@hotmail.com,0.33333333333333337,0.25,0.6666666666666667,True
+Savorboard,yangxiaodong1214@126.com,jabarca,jesus.abarca@wizeline.com,0.4705882352941176,0.1428571428571429,0.7352941176470588,True
+Savorboard,yangxiaodong1214@126.com,szukuro,szukuro@gmail.com,0.3529411764705882,0.08695652173913049,0.6764705882352942,True
+Savorboard,yangxiaodong1214@126.com,vlad2689,nedelescu.vlad@gmail.com,0.33333333333333337,0.19999999999999996,0.6666666666666667,True
+Simon,simon@spehar.si,Srushti,136682990+srushtipasari94@users.noreply.github.com,0.33333333333333337,0.1333333333333333,0.6666666666666667,True
+Simon,simon@spehar.si,Stepan,kologicdev@icloud.com,0.36363636363636365,0.1333333333333333,0.6818181818181819,True
+Simon,simon@spehar.si,SychevIgor,sychevigor@users.noreply.github.com,0.4,0.4,0.7,True
+Simon,simon@spehar.si,dsanz,dsanz@plainconcepts.com,0.4,0.4,0.7,True
+Simon,simon@spehar.si,dsrodenas,dsrodenas@users.noreply.github.com,0.4285714285714286,0.4285714285714286,0.7142857142857143,True
+Simon,simon@spehar.si,edmondshtogu,edmondshtogu@gmail.com,0.3529411764705882,0.3529411764705882,0.6764705882352942,True
+Simon,simon@spehar.si,eiximenis,etomas@gmail.com,0.4285714285714286,0.18181818181818177,0.7142857142857143,True
+Simon,simon@spehar.si,m-knet,10815022+m-knet@users.noreply.github.com,0.4,0.19999999999999996,0.7,True
+Simon,simon@spehar.si,n-stefan,38526229+n-stefan@users.noreply.github.com,0.33333333333333337,0.18181818181818177,0.6666666666666667,True
+Simon,simon@spehar.si,szukuro,szukuro@gmail.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+Srushti,136682990+srushtipasari94@users.noreply.github.com,SychevIgor,sychevigor@users.noreply.github.com,0.3529411764705882,0.22857142857142854,0.6764705882352942,True
+Srushti,136682990+srushtipasari94@users.noreply.github.com,Unai,unai@plainconcepts.com,0.36363636363636365,0.2068965517241379,0.6818181818181819,True
+Srushti,136682990+srushtipasari94@users.noreply.github.com,dsrodenas,dsrodenas@users.noreply.github.com,0.375,0.23529411764705888,0.6875,True
+Srushti,136682990+srushtipasari94@users.noreply.github.com,igorsych,igorsych@microsoft.com,0.4,0.18181818181818177,0.7,True
+Srushti,136682990+srushtipasari94@users.noreply.github.com,liubaishui,szliuquan@gmail.com,0.4705882352941176,0.17647058823529416,0.7352941176470588,True
+Srushti,136682990+srushtipasari94@users.noreply.github.com,slsniffer,sl.sniffer@gmail.com,0.375,0.22857142857142854,0.6875,True
+Srushti,136682990+srushtipasari94@users.noreply.github.com,unai,unai@plainconcepts.com,0.36363636363636365,0.2068965517241379,0.6818181818181819,True
+Stepan,kologicdev@icloud.com,dsanz,dsanz@plainconcepts.com,0.5454545454545454,0.1333333333333333,0.7727272727272727,True
+Stepan,kologicdev@icloud.com,dsrodenas,dsrodenas@users.noreply.github.com,0.4,0.3157894736842105,0.7,True
+Stepan,kologicdev@icloud.com,etomas,etomas@gmail.com,0.33333333333333337,0.125,0.6666666666666667,True
+Stepan,kologicdev@icloud.com,glennc,glennc@microsoft.com,0.33333333333333337,0.25,0.6666666666666667,True
+Stepan,kologicdev@icloud.com,jacano,jacanosalado@gmail.com,0.33333333333333337,0.2727272727272727,0.6666666666666667,True
+Stepan,kologicdev@icloud.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.7692307692307692,0.07407407407407407,0.8846153846153846,True
+Sumit Ghosh,13281246+sughosneo@users.noreply.github.com,Sumit Ghosh,sumit.ghosh@neudesic.com,1.0,0.41379310344827597,1.0,True
+Sychev Igor,igorsych@microsoft.com,SychevIgor,sychevigor@users.noreply.github.com,0.9523809523809522,0.4444444444444444,0.375,True
+Sychev Igor,igorsych@microsoft.com,igorsych,igorsych@microsoft.com,0.42105263157894735,1.0,0.2857142857142857,True
+SychevIgor,sychevigor@users.noreply.github.com,chertby,a.skuratovich@gmail.com,0.4705882352941176,0.26086956521739135,0.7352941176470588,True
+SychevIgor,sychevigor@users.noreply.github.com,chinaq,aaa6263@sina.com,0.375,0.0,0.6875,True
+SychevIgor,sychevigor@users.noreply.github.com,i02coroj,i02coroj@hotmail.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+SychevIgor,sychevigor@users.noreply.github.com,igorsych,igorsych@microsoft.com,0.4444444444444444,0.4444444444444444,0.7222222222222222,True
+SychevIgor,sychevigor@users.noreply.github.com,vyunev,vyunev@live.ru,0.375,0.375,0.6875,True
+SychevIgor,sychevigor@users.noreply.github.com,yanchenw,yanchenw@dockerperf,0.4444444444444444,0.4444444444444444,0.7222222222222222,True
+Tarun Jain,87998741+erjain@users.noreply.github.com,Tarun Jain,v-tjain@microsoft.com,1.0,0.36363636363636365,1.0,True
+Unai,unai@plainconcepts.com,Unai Zorrilla Castro,unai@plainconcepts.com,0.33333333333333337,1.0,0.5,True
+Unai,unai@plainconcepts.com,liubaishui,szliuquan@gmail.com,0.4285714285714286,0.3076923076923077,0.7142857142857143,True
+Unai,unai@plainconcepts.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.36363636363636365,0.19047619047619047,0.6818181818181819,True
+Unai,unai@plainconcepts.com,tthtun,theinthanhtun@live.com,0.4,0.23529411764705888,0.7,True
+Unai,unai@plainconcepts.com,unai,unai@plainconcepts.com,1.0,1.0,1.0,True
+Unai,unai@plainconcepts.com,unaizorrilla,unai@plainconcepts.com,0.5,1.0,0.75,True
+Unai,unai@plainconcepts.com,vyunev,vyunev@live.ru,0.4,0.4,0.7,True
+Unai Zorrilla Castro,unai zorrilla castro,Unai Zorrilla Castro,unai@plainconcepts.com,1.0,0.33333333333333337,1.0,True
+Unai Zorrilla Castro,unai zorrilla castro,unaizorrilla,unai@plainconcepts.com,0.75,0.33333333333333337,0.25,True
+Unai Zorrilla Castro,unai@plainconcepts.com,unai,unai@plainconcepts.com,0.33333333333333337,1.0,0.5,True
+Unai Zorrilla Castro,unai@plainconcepts.com,unaizorrilla,unai@plainconcepts.com,0.75,1.0,0.25,True
+VoodooSV,voodoosv@gmail.com,dsrodenas,dsrodenas@users.noreply.github.com,0.3529411764705882,0.3529411764705882,0.6764705882352942,True
+Wenjie Yu（MSFT）,81678720+zedy-wj@users.noreply.github.com,zedy,81678720+zedy-wj@users.noreply.github.com,0.21052631578947367,1.0,0.09999999999999998,True
+Zakaria,23211915+zakaria-c@users.noreply.github.com,amedora,32722363+amedora@users.noreply.github.com,0.4285714285714286,0.3529411764705882,0.7142857142857143,True
+Zakaria,23211915+zakaria-c@users.noreply.github.com,hfz-r,39443205+hfz-r@users.noreply.github.com,0.36363636363636365,0.375,0.6818181818181819,True
+Zakaria,23211915+zakaria-c@users.noreply.github.com,jzeferino,jorgevalentzeferino@gmail.com,0.375,0.16216216216216217,0.6875,True
+Zakaria,23211915+zakaria-c@users.noreply.github.com,szukuro,szukuro@gmail.com,0.4285714285714286,0.24,0.7142857142857143,True
+alecola,alessandrocolamarino@gmail.com,amedora,32722363+amedora@users.noreply.github.com,0.5714285714285714,0.2777777777777778,0.7857142857142857,True
+alecola,alessandrocolamarino@gmail.com,ansonzhang,3143422472@qq.com,0.3529411764705882,0.0,0.6764705882352942,True
+alecola,alessandrocolamarino@gmail.com,dmalimon,devmalimon@gmail.com,0.4,0.33333333333333337,0.7,True
+alecola,alessandrocolamarino@gmail.com,etomas,etomas@gmail.com,0.4615384615384615,0.3076923076923077,0.7307692307692307,True
+alecola,alessandrocolamarino@gmail.com,jabarca,jesus.abarca@wizeline.com,0.4285714285714286,0.4375,0.7142857142857143,True
+alecola,alessandrocolamarino@gmail.com,jacano,jacanosalado@gmail.com,0.4615384615384615,0.4375,0.7307692307692307,True
+alecola,alessandrocolamarino@gmail.com,jmanuelcorral,jcorral@plainconcepts.com,0.5,0.2222222222222222,0.75,True
+alecola,alessandrocolamarino@gmail.com,unaizorrilla,unai@plainconcepts.com,0.42105263157894735,0.25,0.7105263157894737,True
+amedora,32722363+amedora@users.noreply.github.com,ansonzhang,3143422472@qq.com,0.3529411764705882,0.3076923076923077,0.6764705882352942,True
+amedora,32722363+amedora@users.noreply.github.com,dmalimon,devmalimon@gmail.com,0.4,0.23076923076923073,0.7,True
+amedora,32722363+amedora@users.noreply.github.com,dsanz,dsanz@plainconcepts.com,0.33333333333333337,0.19047619047619047,0.6666666666666667,True
+amedora,32722363+amedora@users.noreply.github.com,dsrodenas,dsrodenas@users.noreply.github.com,0.375,0.24,0.6875,True
+amedora,32722363+amedora@users.noreply.github.com,etomas,etomas@gmail.com,0.4615384615384615,0.2727272727272727,0.7307692307692307,True
+amedora,32722363+amedora@users.noreply.github.com,jabarca,jesus.abarca@wizeline.com,0.4285714285714286,0.2142857142857143,0.7142857142857143,True
+amedora,32722363+amedora@users.noreply.github.com,jmanuelcorral,jcorral@plainconcepts.com,0.5,0.26086956521739135,0.75,True
+amedora,32722363+amedora@users.noreply.github.com,m-knet,10815022+m-knet@users.noreply.github.com,0.33333333333333337,0.32258064516129037,0.6666666666666667,True
+amedora,32722363+amedora@users.noreply.github.com,unaizorrilla,unai@plainconcepts.com,0.42105263157894735,0.09999999999999998,0.7105263157894737,True
+amedora,32722363+amedora@users.noreply.github.com,william-keller,kellerwilliam2011@gmail.com,0.4,0.18181818181818177,0.7,True
+ansonzhang,3143422472@qq.com,dmalimon,devmalimon@gmail.com,0.33333333333333337,0.0,0.6666666666666667,True
+ansonzhang,3143422472@qq.com,dsanz,dsanz@plainconcepts.com,0.4,0.0,0.7,True
+ansonzhang,3143422472@qq.com,dsrodenas,dsrodenas@users.noreply.github.com,0.42105263157894735,0.0,0.7105263157894737,True
+ansonzhang,3143422472@qq.com,jacano,jacanosalado@gmail.com,0.375,0.0,0.6875,True
+ansonzhang,3143422472@qq.com,jeremiahflaga,flaga.jeremiah@gmail.com,0.34782608695652173,0.0,0.6739130434782609,True
+ansonzhang,3143422472@qq.com,jmanuelcorral,jcorral@plainconcepts.com,0.34782608695652173,0.0,0.6739130434782609,True
+ansonzhang,3143422472@qq.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.4705882352941176,0.2962962962962963,0.7352941176470588,True
+ansonzhang,3143422472@qq.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.5217391304347826,0.0,0.7608695652173914,True
+ansonzhang,3143422472@qq.com,yanchenw,yanchenw@dockerperf,0.4444444444444444,0.0,0.7222222222222222,True
+ansonzhang,3143422472@qq.com,yantang,yantang@microsoft.com,0.5882352941176471,0.0,0.7941176470588236,True
+chertby,a.skuratovich@gmail.com,hfz-r,39443205+hfz-r@users.noreply.github.com,0.36363636363636365,0.07407407407407407,0.6818181818181819,True
+chertby,a.skuratovich@gmail.com,yanchenw,yanchenw@dockerperf,0.4,0.2857142857142857,0.7,True
+chinaq,aaa6263@sina.com,jacano,jacanosalado@gmail.com,0.33333333333333337,0.3157894736842105,0.6666666666666667,True
+chinaq,aaa6263@sina.com,yanchenw,yanchenw@dockerperf,0.4285714285714286,0.1333333333333333,0.7142857142857143,True
+ddrsql,ddrsql@hotmail.com,dsanz,dsanz@plainconcepts.com,0.36363636363636365,0.36363636363636365,0.6818181818181819,True
+ddrsql,ddrsql@hotmail.com,dsrodenas,dsrodenas@users.noreply.github.com,0.4,0.4,0.7,True
+ddrsql,ddrsql@hotmail.com,dvlsg,dvlsg@users.noreply.github.com,0.36363636363636365,0.36363636363636365,0.6818181818181819,True
+ddrsql,ddrsql@hotmail.com,edmondshtogu,edmondshtogu@gmail.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,dsrodenas,dsrodenas@users.noreply.github.com,0.36363636363636365,0.24242424242424243,0.6818181818181819,True
+dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,edmondshtogu,edmondshtogu@gmail.com,0.4,0.2777777777777778,0.7,True
+dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,epique@plainconcepts.com,epique@plainconcepts.com,0.4,0.19999999999999996,0.7,True
+dmalimon,devmalimon@gmail.com,dsanz,dsanz@plainconcepts.com,0.4615384615384615,0.4,0.7307692307692307,True
+dmalimon,devmalimon@gmail.com,dsrodenas,dsrodenas@users.noreply.github.com,0.3529411764705882,0.3157894736842105,0.6764705882352942,True
+dmalimon,devmalimon@gmail.com,edmondshtogu,edmondshtogu@gmail.com,0.4,0.36363636363636365,0.7,True
+dmalimon,devmalimon@gmail.com,eiximenis,etomas@gmail.com,0.3529411764705882,0.375,0.6764705882352942,True
+dsanz,dsanz@plainconcepts.com,dsrodenas,dsrodenas@users.noreply.github.com,0.4285714285714286,0.4285714285714286,0.7142857142857143,True
+dsanz,dsanz@plainconcepts.com,dvlsg,dvlsg@users.noreply.github.com,0.4,0.4,0.7,True
+dsanz,dsanz@plainconcepts.com,jacano,jacanosalado@gmail.com,0.36363636363636365,0.23529411764705888,0.6818181818181819,True
+dsanz,dsanz@plainconcepts.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.5,0.2727272727272727,0.75,True
+dsanz,dsanz@plainconcepts.com,szukuro,szukuro@gmail.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+dsrodenas,dsrodenas@users.noreply.github.com,edmondshtogu,edmondshtogu@gmail.com,0.38095238095238093,0.38095238095238093,0.6904761904761905,True
+dsrodenas,dsrodenas@users.noreply.github.com,eiximenis,etomas@gmail.com,0.33333333333333337,0.4,0.6666666666666667,True
+dsrodenas,dsrodenas@users.noreply.github.com,etomas,etomas@gmail.com,0.4,0.4,0.7,True
+dsrodenas,dsrodenas@users.noreply.github.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.375,0.23076923076923073,0.6875,True
+dsrodenas,dsrodenas@users.noreply.github.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.36363636363636365,0.36363636363636365,0.6818181818181819,True
+dsrodenas,dsrodenas@users.noreply.github.com,szukuro,szukuro@gmail.com,0.375,0.375,0.6875,True
+dvlsg,dvlsg@users.noreply.github.com,edmondshtogu,edmondshtogu@gmail.com,0.3529411764705882,0.3529411764705882,0.6764705882352942,True
+edmondshtogu,edmondshtogu@gmail.com,eiximenis,etomas@gmail.com,0.38095238095238093,0.33333333333333337,0.6904761904761905,True
+edmondshtogu,edmondshtogu@gmail.com,etomas,etomas@gmail.com,0.33333333333333337,0.33333333333333337,0.6666666666666667,True
+edmondshtogu,edmondshtogu@gmail.com,jeremiahflaga,flaga.jeremiah@gmail.com,0.31999999999999995,0.23076923076923073,0.6599999999999999,True
+edmondshtogu,edmondshtogu@gmail.com,m-knet,10815022+m-knet@users.noreply.github.com,0.3529411764705882,0.2222222222222222,0.6764705882352942,True
+edmondshtogu,edmondshtogu@gmail.com,tthtun,theinthanhtun@live.com,0.33333333333333337,0.4,0.6666666666666667,True
+eiximenis,etomas@gmail.com,epique@plainconcepts.com,epique@plainconcepts.com,0.32258064516129037,0.16666666666666663,0.6612903225806452,True
+eiximenis,etomas@gmail.com,ericuss,etorre@gmail.com,0.375,0.5,0.6875,True
+eiximenis,etomas@gmail.com,ericuss,etorreg@gmail.com,0.375,0.4615384615384615,0.6875,True
+eiximenis,etomas@gmail.com,erikpique,erik.pique@gmail.com,0.4444444444444444,0.125,0.7222222222222222,True
+eiximenis,etomas@gmail.com,etomas,etomas@gmail.com,0.4,1.0,0.7,True
+eiximenis,etomas@gmail.com,jzeferino,jorgevalentzeferino@gmail.com,0.33333333333333337,0.24,0.6666666666666667,True
+eiximenis,etomas@gmail.com,william-keller,kellerwilliam2011@gmail.com,0.36363636363636365,0.17391304347826086,0.6818181818181819,True
+epique@plainconcepts.com,epique@plainconcepts.com,erikpique,erik.pique@gmail.com,0.3870967741935484,0.75,0.6935483870967742,True
+epique@plainconcepts.com,epique@plainconcepts.com,jzeferino,jorgevalentzeferino@gmail.com,0.32258064516129037,0.16000000000000003,0.6612903225806452,True
+ericuss,etorre@gmail.com,ericuss,etorreg@gmail.com,1.0,0.923076923076923,1.0,True
+ericuss,etorre@gmail.com,erikpique,erik.pique@gmail.com,0.5,0.375,0.75,True
+ericuss,etorre@gmail.com,jzeferino,jorgevalentzeferino@gmail.com,0.375,0.24,0.6875,True
+ericuss,etorreg@gmail.com,erikpique,erik.pique@gmail.com,0.5,0.3529411764705882,0.75,True
+ericuss,etorreg@gmail.com,jzeferino,jorgevalentzeferino@gmail.com,0.375,0.23076923076923073,0.6875,True
+erikpique,erik.pique@gmail.com,jzeferino,jorgevalentzeferino@gmail.com,0.33333333333333337,0.2068965517241379,0.6666666666666667,True
+erikpique,erik.pique@gmail.com,libPhipp,philip_herrmann@gmx.de,0.3529411764705882,0.24,0.6764705882352942,True
+etomas,etomas@gmail.com,m-knet,10815022+m-knet@users.noreply.github.com,0.36363636363636365,0.19047619047619047,0.6818181818181819,True
+i02coroj,i02coroj@hotmail.com,igorsych,igorsych@microsoft.com,0.375,0.375,0.6875,True
+igorsych,igorsych@microsoft.com,liubaishui,szliuquan@gmail.com,0.33333333333333337,0.11764705882352944,0.6666666666666667,True
+igorsych,igorsych@microsoft.com,yanchenw,yanchenw@dockerperf,0.375,0.375,0.6875,True
+jabarca,jesus.abarca@wizeline.com,jacano,jacanosalado@gmail.com,0.6153846153846154,0.33333333333333337,0.8076923076923077,True
+jabarca,jesus.abarca@wizeline.com,jeremiahflaga,flaga.jeremiah@gmail.com,0.4,0.3076923076923077,0.7,True
+jabarca,jesus.abarca@wizeline.com,jmanuelcorral,jcorral@plainconcepts.com,0.4,0.3157894736842105,0.7,True
+jacano,jacanosalado@gmail.com,jmanuelcorral,jcorral@plainconcepts.com,0.42105263157894735,0.5263157894736843,0.7105263157894737,True
+jacano,jacanosalado@gmail.com,jzeferino,jorgevalentzeferino@gmail.com,0.4,0.32258064516129037,0.7,True
+jeremiahflaga,flaga.jeremiah@gmail.com,jmanuelcorral,jcorral@plainconcepts.com,0.3846153846153846,0.2857142857142857,0.6923076923076923,True
+jeremiahflaga,flaga.jeremiah@gmail.com,jzeferino,jorgevalentzeferino@gmail.com,0.36363636363636365,0.303030303030303,0.6818181818181819,True
+jeremiahflaga,flaga.jeremiah@gmail.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.4615384615384615,0.2962962962962963,0.7307692307692307,True
+jmanuelcorral,jcorral@plainconcepts.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.3846153846153846,0.30000000000000004,0.6923076923076923,True
+jzeferino,jorgevalentzeferino@gmail.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.375,0.2777777777777778,0.6875,True
+libPhipp,philip_herrmann@gmx.de,liubaishui,szliuquan@gmail.com,0.5555555555555556,0.33333333333333337,0.7777777777777778,True
+liubaishui,szliuquan@gmail.com,unai,unai@plainconcepts.com,0.4285714285714286,0.3076923076923077,0.7142857142857143,True
+liubaishui,szliuquan@gmail.com,unaizorrilla,unai@plainconcepts.com,0.36363636363636365,0.3076923076923077,0.6818181818181819,True
+m-knet,10815022+m-knet@users.noreply.github.com,n-stefan,38526229+n-stefan@users.noreply.github.com,0.33333333333333337,0.4375,0.6666666666666667,True
+m-knet,10815022+m-knet@users.noreply.github.com,william-keller,kellerwilliam2011@gmail.com,0.33333333333333337,0.125,0.6666666666666667,True
+n-stefan,38526229+n-stefan@users.noreply.github.com,rafsanulhasan,rafsanulhasan@rhpc-msi,0.4,0.2666666666666667,0.7,True
+n-stefan,38526229+n-stefan@users.noreply.github.com,unai,unai@plainconcepts.com,0.36363636363636365,0.19047619047619047,0.6818181818181819,True
+n-stefan,38526229+n-stefan@users.noreply.github.com,yanchenw,yanchenw@dockerperf,0.4,0.24,0.7,True
+n-stefan,38526229+n-stefan@users.noreply.github.com,yantang,yantang@microsoft.com,0.5714285714285714,0.33333333333333337,0.7857142857142857,True
+rafsanulhasan,rafsanulhasan@rhpc-msi,slsniffer,sl.sniffer@gmail.com,0.36363636363636365,0.34782608695652173,0.6818181818181819,True
+tthtun,theinthanhtun@live.com,unai,unai@plainconcepts.com,0.4,0.23529411764705888,0.7,True
+unai,unai@plainconcepts.com,unaizorrilla,unai@plainconcepts.com,0.5,1.0,0.75,True
+unai,unai@plainconcepts.com,vyunev,vyunev@live.ru,0.4,0.4,0.7,True
+vyunev,vyunev@live.ru,yanchenw,yanchenw@dockerperf,0.4285714285714286,0.4285714285714286,0.7142857142857143,True
+yanchenw,yanchenw@dockerperf,yantang,yantang@microsoft.com,0.5333333333333333,0.5333333333333333,0.7666666666666666,True
